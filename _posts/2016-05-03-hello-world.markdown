@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Olá Mundo!"
-date:   2016-05-03 20:46:55 -0300
+date:   2016-05-03 21:46:55 -0300
 categories: hello world
 ---
 Primeiro passo: não excluir o post de exemplo, para futuras consultas.
