@@ -14,4 +14,8 @@ Ciclo de aprendizado:
 
 Sempre existe um intervalo de tempo, pequeno ou grande, entre a etapa 2 e 3.
 
-Depois dessa pré-justificativa caso não existam atualizações no blog, aqui vai o real motivo de querer iniciar um blog: quem tem conteúdo interessante, e se comunica bem, é uma pessoal legal em vários aspectos. E como desenvolvedor que sou, sempre queremos resolver/compartilhar soluções de problemas, sejam elas de programação, ou até como descobrir musicas boas.
+Depois dessa pré-justificativa caso não existam atualizações no blog, aqui vai o real motivo de querer iniciar um blog: quem tem conteúdo interessante, e se comunica bem, é uma pessoal legal em vários aspectos. 
+
+E como desenvolvedor que sou, sempre queremos resolver/compartilhar soluções de problemas, sejam elas de programação, ou até como descobrir musicas boas.
+
+Então vamos lá, mãos a obra!
